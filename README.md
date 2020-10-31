@@ -25,30 +25,30 @@ I see many people go through consecutive bad days which affect their mood and pr
 ## How to use the app?
 
 ### 🕖 Record your mood
-<img src="images/tutorial_1.png" alt="app" style="float: right; width: 50%; margin: 10px">
+<img src="images/tutorial_1.png" alt="app" style="float: right; width: 20%; margin: 10px">
 There are 4 seasons. Each represents different mood. Explore app to know. Press the corner green check-mark to record for today. Don't worry you can tap as many times as you want, each time old record of today will be overwritten (not the note). Best time to record is at the end of the day.
 <br style="clear:both" />
 
 ### 🗯 Chat room
-<img src="images/tutorial_3.gif" alt="app" style="float: left; width: 50%; margin: 10px">
+<img src="images/tutorial_3.gif" alt="app" style="float: left; width: 20%; margin: 10px">
 Here you can meet new people. Just chill there when you have a bad day. Express your emotion, hope someone will make you happy!
 <br style="clear:both" />
 
 ### 🕵️ See statistics
-<img src="images/tutorial_4.jpg" alt="app" style="float: right; width: 50%; margin: 10px">
+<img src="images/tutorial_4.jpg" alt="app" style="float: right; width: 20%; margin: 10px">
 
 Here you can set 7-DAY, 30-DAY or CUSTOM filter to see what is the percentage of mood. If you have more than 70% of Winter season, then my friend something is wrong with your life!
 <br style="clear:both" />
 
 
 ### ✍ Save Note for a day
-<img src="images/tutorial_5.jpg" alt="app" style="float: left; width: 50%; margin: 10px">
+<img src="images/tutorial_5.jpg" alt="app" style="float: left; width: 20%; margin: 10px">
 
 Toggle to calender mode. Then long press on a particular date in the date range you selected, a popup will come. You change the field and then update.
 <br style="clear:both" />
 
 ### Share, Export or Contact me 😁
-<img src="images/tutorial_6.jpg" alt="app" style="float: right; width: 50%; margin: 10px">
+<img src="images/tutorial_6.jpg" alt="app" style="float: right; width: 20%; margin: 10px">
 Click on share button if you want to share your stat! Otherwise take backup of your input  as a csv file and save it in secure place. Also found a bug🐛? Mail me!
 <br style="clear:both" />
 
